@@ -23,8 +23,6 @@ ESTADO: En desarrollo...
 
 *Juegos sencillos en distintos lenguajes de programación.*
 
-Este programa está pensado para automatizar la acción de apostar en un juego dentro de una plataforma.
-
 Se añaden distintos mini-juegos clásicos programados con distintos lenguajes de programación.
 
 ---
