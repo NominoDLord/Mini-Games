@@ -27,8 +27,6 @@ Este programa está pensado para automatizar la acción de apostar en un juego d
 
 Se añaden distintos mini-juegos clásicos programados con distintos lenguajes de programación.
 
-Este repositorio pretende ser una 
-
 ---
 
 ### *::: ESTRUCTURA :::*
