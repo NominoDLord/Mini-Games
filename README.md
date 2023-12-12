@@ -28,6 +28,7 @@ Se añaden distintos mini-juegos clásicos programados con distintos lenguajes d
 ---
 
 ### *::: ESTRUCTURA :::*
+
 ```
 Mini-Games/
 |
@@ -47,8 +48,11 @@ Mini-Games/
 |-- Space Invaders/
 |   | Space Invaders.py
 |
-|-- Tetris
+|-- Tetris/
 |   |-- Tetris.py
+|
+|-- Tic-Tac-Toe/
+|   |-- Tic-Tac-Toe.py
 ```
 ---
 
